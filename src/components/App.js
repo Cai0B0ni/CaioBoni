@@ -99,8 +99,8 @@ export default class App extends Component {
             
             <div className="Content__blocks">
               <Switch>
-                <Route exact path="/CaioPortfolio/projects" component={() => <Projects list={this.state.personalProjects} title="Personal projects"/>} />
-                <Route exact path="/CaioPortfolio" component={() => 
+                <Route exact path="/CaioBoni/projects" component={() => <Projects list={this.state.personalProjects} title="Personal projects"/>} />
+                <Route exact path="/CaioBoni" component={() => 
                   <About 
                     hobbies={this.state.hobbies}
                     jobs={this.state.jobs}
@@ -114,8 +114,8 @@ export default class App extends Component {
 
                   />} 
                 />
-                <Route exact path="/CaioPortfolio/forum" component={() => <Blog list={this.state.blogs} />} />
-                <Route exact path="/CaioPortfolio/contact" component={() => <Contacts/>}  /> 
+                <Route exact path="/CaioBoni/forum" component={() => <Blog list={this.state.blogs} />} />
+                <Route exact path="/CaioBoni/contact" component={() => <Contacts/>}  /> 
               </Switch>
             </div>
           </Grid>

@@ -27,28 +27,28 @@ export default class Resume extends Component {
             <ul style={{ marginTop: '2rem', listStyle: 'none' }}>
               <li onClick={() => this.changeHref('about')} className="menu__item" style={{ float: 'left', listStyle: 'none'}}>
                 <a id='link' style={this.state.href == 'about' ? { borderBottom: 'solid 2px white', paddingBottom:'1px' } : {}}>
-                  <Link to="/CaioPortfolio">
+                  <Link to="/CaioBoni">
                     About
                   </Link>
                 </a>
               </li>
               <li onClick={() => this.changeHref('proj')} className="menu__item" style={{ float: 'left', listStyle: 'none' }}>
                 <a id='link' style={this.state.href == 'proj' ? { borderBottom: 'solid 2px white', paddingBottom:'1px' } : {}}>
-                  <Link to="/CaioPortfolio/projects">
+                  <Link to="/CaioBoni/projects">
                     Projects
                   </Link>
                 </a>
               </li>
               <li onClick={() => this.changeHref('blog')} className="menu__item" style={{ float: 'left', listStyle: 'none' }}>
                 <a id='link' style={this.state.href == 'blog' ? { borderBottom: 'solid 2px white', paddingBottom:'1px' } : {}}>
-                  <Link to="/CaioPortfolio/forum">
+                  <Link to="/CaioBoni/forum">
                     Blog
                   </Link>
                 </a>
               </li>
               <li onClick={() => this.changeHref('con')} className="menu__item" style={{ float: 'left', listStyle: 'none' }}>
                 <a id='link' style={this.state.href == 'con' ? { borderBottom: 'solid 2px white', paddingBottom:'1px' } : {}}>
-                  <Link to="/CaioPortfolio/contact">
+                  <Link to="/CaioBoni/contact">
                     Contact
                   </Link>
                 </a>
