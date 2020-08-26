@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "homepage": "http://cai0b0ni.github.io/CaioPortfolio",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "clx": "^1.0.0",
+    "html-react-parser": "0.4.7",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-fade-in": "0.1.6",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
