@@ -86,9 +86,9 @@ export default class App extends Component {
         {/* <Header/> */}
         <Grid container >
           <Grid item xs={12}>
-          <Banner />
+            <Banner />
 
-        </Grid>
+          </Grid>
           <Grid item xs={12}>
             <Resume />
           </Grid>

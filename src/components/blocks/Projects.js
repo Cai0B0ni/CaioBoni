@@ -9,7 +9,6 @@ export default class Projects extends Component {
     let projects = this.props.list;
     return (
       <div id="Projects" style={{marginTop:'2rem', textAlign:'center'}}>
-        <h3 className="block__heading" style={{color:'white'}}>{this.props.title}</h3>
         <div className="project__list" style={{}}>
           <Grid container alignItems="center" justify="center">
             {projects.map((project, idx) => (

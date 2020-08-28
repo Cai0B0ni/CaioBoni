@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Paper from '@material-ui/core/Paper'
 import Grid from '@material-ui/core/Grid'
 import Card from "../pages/blog/card"
+import { Typography } from '@material-ui/core';
 
 
 export default class Header extends Component {
@@ -16,7 +17,7 @@ export default class Header extends Component {
 
     return (
       <div >
-        <Paper style={{background:'transparent'}} className="content__size block" >
+        <Paper style={{background:'transparent', padding:'0'}} className="content__size block" >
           <Grid container spacing={2} alignItems="center" justify="center">
             {blogs.map((blog, idx) => (
               <Grid item xs={12}>

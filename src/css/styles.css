@@ -19,6 +19,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+
 }
 
 
@@ -40,6 +41,7 @@
 /* -- Base -- */
 body {
   margin: 0;
+  
 }
 br {
   line-height: 1.75rem;
@@ -658,7 +660,6 @@ img {
 /* Personal projects */
 .project__list {
   display: flex;
-  margin:'2rem 4% 0 10%';
 }
 
 @media (min-width: 768px) {

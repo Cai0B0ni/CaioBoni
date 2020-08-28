@@ -16,7 +16,7 @@ import EmailIcon from '@material-ui/icons/Email';
 const useStyles = makeStyles((theme) => ({
   root: {
     '& .MuiTextField-root': {
-      width: '97%',
+      width: '98%',
       margin:'auto',
       background:'transparent'
 
@@ -41,13 +41,7 @@ export default function Header() {
   };
 
   return (
-    <Grid container>
-      <Grid item xs={12}>
-        <Typography style={{ textAlign: "center", color: "white", fontWeight: '700', fontSize: "25px", marginTop:'1rem' }}>
-          Contact 
-        </Typography>
-      </Grid>
-
+    <Grid container style={{marginTop:'2rem'}}>
       <Grid item xs={7}>
         <form className={classes.root} noValidate autoComplete="off">
           <Grid container>

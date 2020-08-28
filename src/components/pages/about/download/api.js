@@ -1,5 +1,4 @@
-import resume from '../resume.docx'
-const dataFromServer = resume;
+const dataFromServer = "resume";
 
 export default {
   get: _ =>

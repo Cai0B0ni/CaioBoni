@@ -13,7 +13,7 @@ export default class Blogs extends Component {
     const { list } = this.props
     return (
       <div >
-        <Blog list={list}/>
+        <Blog style={{padding:'0px'}} list={list}/>
       </div>
     );
   }
