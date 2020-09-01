@@ -117,10 +117,10 @@
       "url": "NDA"
     },
     {
-      "name": "Know yourself on earth",
+      "name": "Search Engine  ",
       "imgSrc": "https://sa-media-2018.s3.amazonaws.com/media/images/mosaico_nasa_4n46Hf0.width-800.png",
       "description": "We choose Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
-      "url": ""
+      "url": "https://github.com/Cai0B0ni/Search-Engine"
     },
     {
       "name": "Snake Game",
@@ -139,6 +139,30 @@
       "imgSrc": "https://www.genome.gov/sites/default/files/tg/en/illustration/dna_sequencing.jpg",
       "description": "Introduces a program that reports information about a DNA, by first asking the file the user wishes to use, so that in the end it prints out the region name, nucleotide sequence, count and individual nucleotide mass percent, as well as if each individual strain is a protein.",
       "url": "https://github.com/Cai0B0ni/DNA-Reporter"
+    },
+    {
+      "name": "Hangman Game",
+      "imgSrc": "https://m.coolmathgames.com/sites/default/files/snake.png",
+      "description": "We choose Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "url": "https://github.com/Cai0B0ni/Hangman-game-Java"
+    },
+    {
+      "name": "Huffman Decompression",
+      "imgSrc": "https://3.bp.blogspot.com/-mLTCmZr3ooI/VU5PX_fWMSI/AAAAAAAAAG0/hJejEgfEUPY/s1600/blog.PNG",
+      "description": "We choo se Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "url": "https://github.com/Cai0B0ni/Huffman-decompression"
+    },
+    {
+      "name": "Mad Lib Game",
+      "imgSrc": "https://www.genome.gov/sites/default/files/tg/en/illustration/dna_sequencing.jpg",
+      "description": "Introduces a program that reports information about a DNA, by first asking the file the user wishes to use, so that in the end it prints out the region name, nucleotide sequence, count and individual nucleotide mass percent, as well as if each individual strain is a protein.",
+      "url": "https://github.com/Cai0B0ni/Mad-Lib-Game"
+    },
+    {
+      "name": "War Game",
+      "imgSrc": "https://www.genome.gov/sites/default/files/tg/en/illustration/dna_sequencing.jpg",
+      "description": "Introduces a program that reports information about a DNA, by first asking the file the user wishes to use, so that in the end it prints out the region name, nucleotide sequence, count and individual nucleotide mass percent, as well as if each individual strain is a protein.",
+      "url": "https://github.com/Cai0B0ni/Species-War-Game"
     }
   ],
   "hobbies": [
