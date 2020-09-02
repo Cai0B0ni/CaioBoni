@@ -4,7 +4,7 @@ import TextField from '@material-ui/core/TextField';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
 import { Typography } from '@material-ui/core';
-
+import Button from '@material-ui/core/Button'
 import PhoneIcon from '@material-ui/icons/Phone';
 import PinDropIcon from '@material-ui/icons/PinDrop';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
@@ -86,6 +86,11 @@ export default function Header() {
 
                 />
               </Paper>
+            </Grid>
+            <Grid item xs={12}>
+              <Button style={{background:'rgb(255,255,255,0.7)', marginLeft:'45%', marginTop:'.4rem'}}>
+                Send
+              </Button>
             </Grid>
           </Grid>
         </form>

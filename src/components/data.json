@@ -111,28 +111,28 @@
   ],
   "personalProjects": [
     {
-      "name": "Omic WebApp",
-      "imgSrc": "https://www.motocasionalicante.es/images/motos-nuevas.jpeg",
-      "description": "Motorbikes catalog for the company MotocasionAlicante, frontend developer. Colaboration of Nestor Orest Plysyuk as backend developer.",
+      "name": "Omic",
+      "imgSrc": "https://www.researchgate.net/profile/Ravi_Pathak/publication/262111317/figure/fig5/AS:309816221290509@1450877351791/Global-screening-strategies-and-techniques-driving-omics-era-Genomics-applications.png",
+      "description": "Front End and Back end architecture and design",
       "url": "NDA"
     },
     {
-      "name": "Search Engine  ",
-      "imgSrc": "https://sa-media-2018.s3.amazonaws.com/media/images/mosaico_nasa_4n46Hf0.width-800.png",
-      "description": "We choose Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "name": "Search Engine",
+      "imgSrc": "https://cdn.searchenginejournal.com/wp-content/uploads/2005/09/searchenginescompared.jpg",
+      "description": "Search Engine program.",
       "url": "https://github.com/Cai0B0ni/Search-Engine"
     },
     {
       "name": "Snake Game",
       "imgSrc": "https://m.coolmathgames.com/sites/default/files/snake.png",
-      "description": "We choose Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "description": "Simple Java program created that emulated the famous snake game that tracks scoring.",
       "url": "https://github.com/Cai0B0ni/SnakeJava"
     },
     {
       "name": "GUI Calculator",
       "imgSrc": "https://3.bp.blogspot.com/-mLTCmZr3ooI/VU5PX_fWMSI/AAAAAAAAAG0/hJejEgfEUPY/s1600/blog.PNG",
-      "description": "We choo se Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
-      "url": "https://youtu.be/GUqVrn6GIYQ"
+      "description": "Program that emulates a GUI calculator from Sin Cosin calculations to algebraic functions.",
+      "url": "https://github.com/Cai0B0ni/Species-War-Game"
     },
     {
       "name": "Dna Sequencer",
@@ -142,91 +142,67 @@
     },
     {
       "name": "Hangman Game",
-      "imgSrc": "https://m.coolmathgames.com/sites/default/files/snake.png",
-      "description": "We choose Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "imgSrc": "https://i0.wp.com/www.thegamegal.com/wp-content/uploads/2011/06/hangman-game-4.png?ssl=1",
+      "description": "Traditional hangman game with a twist. It will keep a bank of possible words to choose from that will get smaller as attempts progresses in order to elongate the game.",
       "url": "https://github.com/Cai0B0ni/Hangman-game-Java"
     },
     {
       "name": "Huffman Decompression",
-      "imgSrc": "https://3.bp.blogspot.com/-mLTCmZr3ooI/VU5PX_fWMSI/AAAAAAAAAG0/hJejEgfEUPY/s1600/blog.PNG",
-      "description": "We choo se Artify the earth challenge to show different earth places interactively. People want to learn about the universe but, what we really know about our planet?",
+      "imgSrc": "https://image.slidesharecdn.com/huffman-131027113221-phpapp01/95/huffman-data-compressiondecompression-6-638.jpg?cb=1382874430",
+      "description": "The algorithm derives from a table of estimated probability or frequency of occurrence (weight) for each possible value. ",
       "url": "https://github.com/Cai0B0ni/Huffman-decompression"
     },
     {
       "name": "Mad Lib Game",
-      "imgSrc": "https://www.genome.gov/sites/default/files/tg/en/illustration/dna_sequencing.jpg",
-      "description": "Introduces a program that reports information about a DNA, by first asking the file the user wishes to use, so that in the end it prints out the region name, nucleotide sequence, count and individual nucleotide mass percent, as well as if each individual strain is a protein.",
+      "imgSrc": "https://images.saymedia-content.com/.image/t_share/MTc0MjMxNzE1MTE0Mzk1MTMy/thanksgiving-games-for-kids.png",
+      "description": "Class Project: Program that creates a mad lib.",
       "url": "https://github.com/Cai0B0ni/Mad-Lib-Game"
     },
     {
       "name": "War Game",
-      "imgSrc": "https://www.genome.gov/sites/default/files/tg/en/illustration/dna_sequencing.jpg",
-      "description": "Introduces a program that reports information about a DNA, by first asking the file the user wishes to use, so that in the end it prints out the region name, nucleotide sequence, count and individual nucleotide mass percent, as well as if each individual strain is a protein.",
+      "imgSrc": "https://cdn.theculturetrip.com/wp-content/uploads/2016/12/noegarin_nativemexicoanimals_web-650x317.png",
+      "description": "Lorem Ipsum",
       "url": "https://github.com/Cai0B0ni/Species-War-Game"
     }
   ],
   "hobbies": [
     {
-      "name": "Travel & Culture",
+      "name": "AWS S3 vs Azure Blob ",
       "imgSrc": "https://image.flaticon.com/icons/svg/201/201623.svg",
-      "description": "Stockholm Eindhoven Glasgow Brussels Avignon Tours Venezia"
+      "description": "lorem ipsum"
     },
     {
-      "name": "Space",
+      "name": "Optimizing performance in React",
       "imgSrc": "https://image.flaticon.com/icons/svg/201/201646.svg",
-      "description": ""
-    },
-    {
-      "name": "Music",
-      "imgSrc": "https://image.flaticon.com/icons/svg/201/201628.svg",
-      "description": "Punk Rock Guttural Metal Drum&Bass Dubstep"
-    },
-    {
-      "name": "TV Shows",
-      "imgSrc": "https://image.flaticon.com/icons/svg/1169/1169097.svg",
-      "description": "Black Mirror Peaky Blinders Silicon Valley Big Bang Theory Misfits"
+      "description": "lorem ipsum"
     },
     {
       "name": "Food",
       "imgSrc": "https://image.flaticon.com/icons/svg/135/135763.svg",
-      "description": "Taboule Burguer Coulant Gnocchi Shuba Potatoes Cheese"
+      "description": "lorem ipsum"
     }
   ],
   "blog": [
     {
-      "name": "Travel & Culture",
+      "name": "Optimizing performance in React",
       "imgSrc": "https://image.flaticon.com/icons/svg/201/201623.svg",
       "date": "Feb 12, 2019",
-      "description": "Stockholm Eindhoven Glasgow Brussels Avignon Tours Venezia",
+      "description": "Lorem ipsum",
       "url": "https://join.shawacademy.com/data-analytics-amp-20?utm_source=facebook&utm_medium=cpc&utm_campaign=US_Prospecting_Interest-DataAnalytics_auto_B_18_square-image-GreyTrianglesBackground-PinkIcon-DataAnalytics-USprice-09Aug_square-image_text2-BoredBinge-DataAnalytics-FreeAccess-UA_All_OptPUR_LPDataAnalyticsAMP-2020_CostCap-oCPM_DataAnalytics&country=US&fbclid=IwAR34o5yfrVslkXngn5NTmw2XoZGJ2F4zBMf9KD5NKebPdBI6IUKNZ1HbaZw"
     },
     {
-      "name": "Space",
+      "name": "AWS S3 vs Azure Blob ",
       "imgSrc": "https://image.flaticon.com/icons/svg/201/201646.svg",
       "date": "Feb 12, 2019",
       "description": "",
-      "content":""
+      "content": "<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>"
     },
     {
-      "name": "Music",
-      "imgSrc": "https://image.flaticon.com/icons/svg/201/201628.svg",
-      "date": "Feb 12, 2019",
-      "description": "Punk Rock Guttural Metal Drum&Bass Dubstep",
-      "content": "<div>ewew</div>"
-    },
-    {
-      "name": "TV Shows",
-      "imgSrc": "https://image.flaticon.com/icons/svg/1169/1169097.svg",
-      "date": "Feb 12, 2019",
-      "description": "Black Mirror Peaky Blinders Silicon Valley Big Bang Theory Misfits",
-      "content":""
-    },
-    {
-      "name": "Food",
+      "name": "Smooth Nonlinear Optimization (NLP) Problems",
       "imgSrc": "https://image.flaticon.com/icons/svg/135/135763.svg",
       "date": "Feb 12, 2019",
       "description": "Taboule Burguer Coulant Gnocchi Shuba Potatoes Cheese",
-      "content":""
+      "content": "<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>"
     }
   ]
 }
